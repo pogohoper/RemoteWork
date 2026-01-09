@@ -2,6 +2,18 @@
 
 An Android application that detects sound frequencies in real-time and reproduces them to make wine glasses vibrate. This app demonstrates acoustic resonance by capturing audio, analyzing frequencies using FFT (Fast Fourier Transform), and playing them back at the detected frequency.
 
+## 📱 Download APK (Easiest Way!)
+
+**No build required!** The APK is automatically built on GitHub:
+
+1. Go to the **[Actions](../../actions)** tab in this repository
+2. Click on the latest "Build APK" workflow run (with a green checkmark ✅)
+3. Scroll down to **Artifacts** section
+4. Download **wine-glass-vibrator-debug.zip**
+5. Extract the APK and install on your phone!
+
+Or build it yourself using the instructions below.
+
 ## Features
 
 - **Real-time Frequency Detection**: Captures audio from the microphone and identifies dominant frequencies
