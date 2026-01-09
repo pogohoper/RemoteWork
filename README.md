@@ -6,11 +6,18 @@ An Android application that detects sound frequencies in real-time and reproduce
 
 **No build required!** The APK is automatically built on GitHub:
 
-1. Go to the **[Actions](../../actions)** tab in this repository
-2. Click on the latest "Build APK" workflow run (with a green checkmark ✅)
-3. Scroll down to **Artifacts** section
-4. Download **wine-glass-vibrator-debug.zip**
-5. Extract the APK and install on your phone!
+### Step-by-Step:
+1. **Open your web browser** (Chrome, Safari, Firefox, etc.)
+2. **Go to**: `https://github.com/pogohoper/RemoteWork/actions`
+3. **Look for**: "Build APK" workflow with a green checkmark ✅
+   - If you see a yellow circle, wait 2-3 minutes for the build to finish
+4. **Click** on the most recent workflow (top of the list)
+5. **Scroll down** to the "Artifacts" section at the bottom
+6. **Download**: Click "wine-glass-vibrator-debug"
+7. **Extract** the .zip file on your computer
+8. **Transfer** the APK to your phone (via USB, Google Drive, email, etc.)
+9. **Install** by tapping the APK on your phone
+   - Enable "Install from Unknown Sources" if prompted
 
 Or build it yourself using the instructions below.
 
