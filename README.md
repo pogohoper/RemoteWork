@@ -176,3 +176,4 @@ This project is open source and available for educational purposes.
 ## Safety Note
 
 This app generates loud tones. Use reasonable volume levels to protect your hearing and avoid damaging speakers or shattering glass.
+
